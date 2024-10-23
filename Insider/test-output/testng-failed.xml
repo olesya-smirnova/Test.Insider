@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UItest]" guice-stage="DEVELOPMENT">
+  <test name="Open positions(failed)">
+    <parameter name="browser" value="FireFox"/>
+    <classes>
+      <class name="TestInsider.SeeQA">
+        <methods>
+          <include name="sampleOne" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- TestInsider.SeeQA -->
+    </classes>
+  </test> <!-- Open positions(failed) -->
+</suite> <!-- Failed suite [UItest] -->
