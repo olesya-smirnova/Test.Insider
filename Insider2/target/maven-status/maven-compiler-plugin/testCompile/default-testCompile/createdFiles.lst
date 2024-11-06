@@ -1,0 +1,11 @@
+com\insider\Insider2\CareersCases\CareersActions.class
+com\insider\Insider2\QaPageCases\QaPageActions.class
+com\insider\Insider2\BaseWeb.class
+com\insider\Insider2\CareersCases\CheckCareersWebTest.class
+com\insider\Insider2\QaPageCases\CheckQaPageWebTest.class
+APITest\Negative.class
+com\insider\Insider2\CareersCases\CareersPage.class
+APITest\Pet.class
+APITest\PetService.class
+com\insider\Insider2\BaseWebQaPage.class
+com\insider\Insider2\QaPageCases\QaPage.class

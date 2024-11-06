@@ -1,0 +1,11 @@
+com\api\config\ConfigurationRequest.class
+com\insider\driver\factory\Factory.class
+com\insider\driver\factory\manager\FirefoxDriverManager.class
+com\insider\driver\factory\manager\ChromeDriverManager.class
+com\insider\driver\factory\DriverFactory$1.class
+com\insider\driver\config\ConfigurationManager.class
+com\insider\driver\config\Configuration.class
+com\api\config\Configuration.class
+com\insider\driver\exceptions\BrowserNotSupportedException.class
+com\insider\driver\factory\DriverFactory.class
+com\insider\driver\factory\BrowserList.class

@@ -1,0 +1,10 @@
+G:\Insider2\src\main\java\com\api\config\Configuration.java
+G:\Insider2\src\main\java\com\api\config\ConfigurationRequest.java
+G:\Insider2\src\main\java\com\insider\driver\config\Configuration.java
+G:\Insider2\src\main\java\com\insider\driver\config\ConfigurationManager.java
+G:\Insider2\src\main\java\com\insider\driver\exceptions\BrowserNotSupportedException.java
+G:\Insider2\src\main\java\com\insider\driver\factory\BrowserList.java
+G:\Insider2\src\main\java\com\insider\driver\factory\DriverFactory.java
+G:\Insider2\src\main\java\com\insider\driver\factory\Factory.java
+G:\Insider2\src\main\java\com\insider\driver\factory\manager\ChromeDriverManager.java
+G:\Insider2\src\main\java\com\insider\driver\factory\manager\FirefoxDriverManager.java
